@@ -1,0 +1,24 @@
+.addbtn {
+  width: 95px;
+  height: 40px;
+  color: rgba(143, 168, 193, 1);
+  background: #0c5488;
+  border-color: transparent;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 16px;
+  text-transform: uppercase;
+}
+.cancelbtn {
+  width: 95px;
+  height: 40px;
+  background: rgba(143, 168, 193, 1);
+  color: #0c5488;
+  text-transform: uppercase;
+  border-color: transparent;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 16px;
+}
